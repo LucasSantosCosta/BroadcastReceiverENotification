@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">BroadcastReceiverENotification</string>
     <string name="emitir_um_broadcast">Emitir um Broadcast</string>
+    <string name="broadcast_recebido">Broadcast recebido</string>
 </resources>
